@@ -1,0 +1,10 @@
+.footer-wrapper {
+    display: flex;
+    height: 100%;
+    align-items: stretch;
+}
+
+.footer-copyright {
+    flex-grow: 1;
+    line-height: 50px;
+}
